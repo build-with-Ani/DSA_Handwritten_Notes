@@ -42,5 +42,5 @@ Passionate about DSA, Java, and building a strong portfolio for placements.
 - 📖 Best viewed in full-screen mode
 - 🧹 Files are named and organized by topic for clarity
 - 🤝 Feel free to use these notes for learning but avoid plagiarism
-
+- If the PDF does not preview in browser, please click ‘Download’ to view it on your device.
 ---
