@@ -29,6 +29,27 @@ Each topic is saved in its own folder. Notes are scanned or photographed clearly
 
 ---
 
+## **Index**
+🚀 Stage 1: Absolute Basics (Ground Zero)
+
+🎯 Objective: Get fluent in coding fundamentals & simple DS operations.
+
+✅ Basic Programming:
+
+Variables, Data Types
+
+Input/Output
+
+Loops (for, while, do-while)
+
+Conditional statements (if-else, switch)
+
+Functions & recursion
+
+Arrays (1D & 2D)
+
+Strings (basic operations: length, substring, comparison)
+
 ## 📌 Author
 
 **Ani**  
