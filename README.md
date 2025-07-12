@@ -20,10 +20,9 @@ Each topic is saved in its own folder. Notes are scanned or photographed clearly
 
 ## 📆 Progress Log
 
-| Day   | Topic                | Folder Link                    |
-|-------|----------------------|--------------------------------|
-| Day 1 | Basic Programming    | [Day01-basic_programming](./Day01-basic_programming) |
-| Day 2 | Math Foundation      | [Day02-math_foundation](./Day02-math_foundation) |
+| Day   | Topic                | Folder Link |
+|-------|----------------------|-------------|
+| Day 1 | Basic Programming    | (./Day01)   |
 
 > 📝 Notes are updated daily. Stay tuned for more topics!
 
