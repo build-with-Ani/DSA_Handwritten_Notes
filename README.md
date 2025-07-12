@@ -22,7 +22,7 @@ Each topic is saved in its own folder. Notes are scanned or photographed clearly
 
 | Day   | Topic                | Folder Link |
 |-------|----------------------|-------------|
-| Day 1 | Basic Programming    | (./Day01)   |
+| Day 1 | Basic Programming    | [./Day01](./Day01)   |
 
 > 📝 Notes are updated daily. Stay tuned for more topics!
 
